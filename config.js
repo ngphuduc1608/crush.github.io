@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Tạm tha cho anh đó ',
     btnNo: 'Anh mơ à ! 💔 ',
     question:'A biết lỗi rồi . I love u 3000 năm',
-    reasonPlaceholder: 'Lý do',
+    reasonPlaceholder: 'Em muốn nói gì với anh khôngg',
     btnReply: 'Ok ! 💌',
     reply: 'Em yêu anh nhiều lắm ',
     mess: 'Anh biết mà, Anh cũng yêu em lắm 🥰.I Love you 3000 😘. Bỏ qua cho anh nhaaa',
